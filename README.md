@@ -14,8 +14,24 @@ Our method is an unsupervised post-processing approach.
 ![performance-comparision](https://github.com/nphdang/FCGP/blob/main/performance_comparison.jpg)
 
 # Installation
+1. Python 3.6
+2. numpy 1.18
+3. scikit-learn 0.23
+4. scipy 1.1
+5. keras 2.2.4
+6. tensorflow 1.10
+7. pandas 0.24
+8. matplotlib 2.2.3
+9. seaborn 0.11
 
 # How to run
+1. Train the pre-trained classifier: 1_initial.bat
+2. Run the Random baseline: 2_random.bat
+3. Run the ROC baseline: 3_roc.bat
+4. Run the IGD baseline: 4_igd.bat
+5. Run the FCGP-S method: 5_fcgp_s.bat
+6. Run the FCGP-L method: 6_fcgp_l.bat
+7. Visualize the results: 7_plot_result.bat
 
 # Reference
 Dang Nguyen, Sunil Gupta, Santu Rana, Alistair Shilton, Svetha Venkatesh (2021). Fairness Improvement for Black-box Classifiers with Gaussian Process. Information Sciences, 576, 542-556
