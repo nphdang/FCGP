@@ -1,0 +1,6 @@
+method: initial, dataset: adult, sensitive: race
+n_train: 27220, n_valid: 1509, n_test: 1433
+acc_valid: 0.85 (0.01), fair_valid: 0.91 (0.04), individual_valid: 0.08 (0.01)
+acc_test: 0.85 (0.0), fair_test: 0.89 (0.02), individual_test: 0.08 (0.0)
+start date time: 2021-08-17 13:49:59.625908 and end date time: 2021-08-17 13:50:47.468115
+runtime: 47.84(s)

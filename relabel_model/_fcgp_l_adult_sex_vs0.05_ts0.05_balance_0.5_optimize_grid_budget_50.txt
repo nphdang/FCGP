@@ -1,0 +1,6 @@
+dataset: adult, sensitive: sex, validation_size: 0.05, test_size: 0.05
+method: fcgp_l, balance: 0.5, optimize: grid, budget: 50
+acc_valid: 0.84 (0.01), fair_valid: 0.84 (0.02), individual_valid: 0.09 (0.01)
+acc_test: 0.64 (0.32), fair_test: 0.71 (0.35), individual_test: 0.1 (0.05)
+start date time: 2021-08-18 11:51:17.497155 and end date time: 2021-08-18 11:57:43.226891
+runtime: 385.73(s)

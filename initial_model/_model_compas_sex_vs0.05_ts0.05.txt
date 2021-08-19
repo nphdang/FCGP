@@ -1,0 +1,6 @@
+method: initial, dataset: compas, sensitive: sex
+n_train: 3618, n_valid: 201, n_test: 191
+acc_valid: 0.84 (0.03), fair_valid: 0.94 (0.02), individual_valid: 0.06 (0.01)
+acc_test: 0.84 (0.02), fair_test: 0.96 (0.02), individual_test: 0.06 (0.0)
+start date time: 2021-08-17 13:48:27.160967 and end date time: 2021-08-17 13:48:37.376888
+runtime: 10.21(s)

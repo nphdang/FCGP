@@ -1,0 +1,6 @@
+method: initial, dataset: german, sensitive: age
+n_train: 902, n_valid: 50, n_test: 48
+acc_valid: 0.74 (0.04), fair_valid: 0.86 (0.2), individual_valid: 0.12 (0.02)
+acc_test: 0.75 (0.06), fair_test: 0.65 (0.1), individual_test: 0.12 (0.03)
+start date time: 2021-08-17 13:47:54.504231 and end date time: 2021-08-17 13:48:00.941924
+runtime: 6.44(s)

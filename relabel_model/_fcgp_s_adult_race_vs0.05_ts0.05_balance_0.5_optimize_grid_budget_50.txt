@@ -1,0 +1,6 @@
+dataset: adult, sensitive: race, validation_size: 0.05, test_size: 0.05
+method: fcgp_s, balance: 0.5, optimize: grid, budget: 50
+acc_valid: 0.76 (0.01), fair_valid: 0.96 (0.01), individual_valid: 0.16 (0.01)
+acc_test: 0.77 (0.01), fair_test: 0.97 (0.01), individual_test: 0.15 (0.0)
+start date time: 2021-08-18 11:57:29.575399 and end date time: 2021-08-18 12:03:51.495202
+runtime: 381.92(s)

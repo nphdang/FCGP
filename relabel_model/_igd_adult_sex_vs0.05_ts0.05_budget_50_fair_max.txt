@@ -1,0 +1,6 @@
+dataset: adult, sensitive: sex, validation_size: 0.05, test_size: 0.05
+method: igd, budget: 50, fair_constraint: max
+acc_valid: 0.84 (0.01), fair_valid: 0.85 (0.01), individual_valid: 0.08 (0.01)
+acc_test: 0.84 (0.01), fair_test: 0.86 (0.03), individual_test: 0.08 (0.0)
+start date time: 2021-08-17 14:13:08.663116 and end date time: 2021-08-17 14:13:12.210043
+runtime: 3.55(s)

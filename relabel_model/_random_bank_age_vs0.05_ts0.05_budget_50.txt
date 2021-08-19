@@ -1,0 +1,6 @@
+dataset: bank, sensitive: age, validation_size: 0.05, test_size: 0.05
+method: random, budget: 50
+acc_valid: 0.88 (0.02), fair_valid: 0.9 (0.08), individual_valid: 0.06 (0.01)
+acc_test: 0.83 (0.07), fair_test: 0.97 (0.04), individual_test: 0.07 (0.02)
+start date time: 2021-08-17 14:10:57.235120 and end date time: 2021-08-17 14:11:01.858294
+runtime: 4.63(s)

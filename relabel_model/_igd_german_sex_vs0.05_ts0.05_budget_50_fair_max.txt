@@ -1,0 +1,6 @@
+dataset: german, sensitive: sex, validation_size: 0.05, test_size: 0.05
+method: igd, budget: 50, fair_constraint: max
+acc_valid: 0.78 (0.05), fair_valid: 0.95 (0.08), individual_valid: 0.09 (0.03)
+acc_test: 0.75 (0.05), fair_test: 0.86 (0.08), individual_test: 0.11 (0.03)
+start date time: 2021-08-17 14:12:33.334418 and end date time: 2021-08-17 14:12:36.859985
+runtime: 3.53(s)

@@ -1,0 +1,6 @@
+dataset: bank, sensitive: marital, validation_size: 0.05, test_size: 0.05
+method: random, budget: 50
+acc_valid: 0.85 (0.02), fair_valid: 0.99 (0.0), individual_valid: 0.07 (0.01)
+acc_test: 0.83 (0.02), fair_test: 0.99 (0.0), individual_test: 0.09 (0.01)
+start date time: 2021-08-17 14:11:06.816360 and end date time: 2021-08-17 14:11:11.487923
+runtime: 4.67(s)

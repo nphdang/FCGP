@@ -1,0 +1,2 @@
+python plot_result.py --set valid --validation_size 0.05 --test_size 0.05 --balance 0.5 --optimize grid --fair_constraint max --n_run 5
+python plot_result.py --set test --validation_size 0.05 --test_size 0.05 --balance 0.5 --optimize grid --fair_constraint max --n_run 5

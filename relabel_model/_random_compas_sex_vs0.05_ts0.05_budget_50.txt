@@ -1,0 +1,6 @@
+dataset: compas, sensitive: sex, validation_size: 0.05, test_size: 0.05
+method: random, budget: 50
+acc_valid: 0.75 (0.02), fair_valid: 0.99 (0.01), individual_valid: 0.12 (0.01)
+acc_test: 0.78 (0.03), fair_test: 0.99 (0.01), individual_test: 0.11 (0.01)
+start date time: 2021-08-17 14:10:48.473301 and end date time: 2021-08-17 14:10:52.963910
+runtime: 4.49(s)

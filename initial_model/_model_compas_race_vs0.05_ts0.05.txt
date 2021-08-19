@@ -1,0 +1,6 @@
+method: initial, dataset: compas, sensitive: race
+n_train: 3618, n_valid: 201, n_test: 191
+acc_valid: 0.84 (0.02), fair_valid: 0.94 (0.01), individual_valid: 0.06 (0.0)
+acc_test: 0.85 (0.01), fair_test: 0.98 (0.02), individual_test: 0.06 (0.0)
+start date time: 2021-08-17 13:48:13.160657 and end date time: 2021-08-17 13:48:23.651835
+runtime: 10.49(s)

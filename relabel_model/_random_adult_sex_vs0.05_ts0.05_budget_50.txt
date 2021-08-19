@@ -1,0 +1,6 @@
+dataset: adult, sensitive: sex, validation_size: 0.05, test_size: 0.05
+method: random, budget: 50
+acc_valid: 0.83 (0.01), fair_valid: 0.86 (0.02), individual_valid: 0.09 (0.01)
+acc_test: 0.83 (0.01), fair_test: 0.88 (0.02), individual_test: 0.09 (0.0)
+start date time: 2021-08-17 14:11:15.811362 and end date time: 2021-08-17 14:11:20.350602
+runtime: 4.54(s)

@@ -1,0 +1,6 @@
+dataset: compas, sensitive: sex, validation_size: 0.05, test_size: 0.05
+method: roc, budget: 50, fair_constraint: max
+acc_valid: 0.84 (0.03), fair_valid: 0.94 (0.02), individual_valid: 0.06 (0.01)
+acc_test: 0.84 (0.02), fair_test: 0.96 (0.02), individual_test: 0.06 (0.0)
+start date time: 2021-08-17 14:10:54.031056 and end date time: 2021-08-17 14:10:58.169916
+runtime: 4.14(s)

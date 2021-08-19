@@ -1,0 +1,6 @@
+dataset: bank, sensitive: marital, validation_size: 0.05, test_size: 0.05
+method: igd, budget: 50, fair_constraint: max
+acc_valid: 0.91 (0.03), fair_valid: 0.98 (0.01), individual_valid: 0.05 (0.01)
+acc_test: 0.9 (0.01), fair_test: 0.98 (0.01), individual_test: 0.05 (0.0)
+start date time: 2021-08-17 14:13:01.815425 and end date time: 2021-08-17 14:13:05.119241
+runtime: 3.3(s)

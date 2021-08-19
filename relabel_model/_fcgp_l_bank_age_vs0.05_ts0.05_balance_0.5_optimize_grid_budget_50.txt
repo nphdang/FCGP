@@ -1,0 +1,6 @@
+dataset: bank, sensitive: age, validation_size: 0.05, test_size: 0.05
+method: fcgp_l, balance: 0.5, optimize: grid, budget: 50
+acc_valid: 0.89 (0.02), fair_valid: 1.0 (0.0), individual_valid: 0.06 (0.01)
+acc_test: 0.89 (0.01), fair_test: 1.0 (0.0), individual_test: 0.06 (0.01)
+start date time: 2021-08-18 11:50:59.959649 and end date time: 2021-08-18 11:51:06.804252
+runtime: 6.85(s)

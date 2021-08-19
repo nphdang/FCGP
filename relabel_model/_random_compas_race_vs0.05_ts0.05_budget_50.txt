@@ -1,0 +1,6 @@
+dataset: compas, sensitive: race, validation_size: 0.05, test_size: 0.05
+method: random, budget: 50
+acc_valid: 0.77 (0.04), fair_valid: 1.0 (0.0), individual_valid: 0.11 (0.01)
+acc_test: 0.78 (0.03), fair_test: 0.99 (0.0), individual_test: 0.1 (0.01)
+start date time: 2021-08-17 14:10:39.672357 and end date time: 2021-08-17 14:10:44.256713
+runtime: 4.57(s)

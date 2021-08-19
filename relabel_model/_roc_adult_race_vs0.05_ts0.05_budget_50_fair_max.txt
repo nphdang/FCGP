@@ -1,0 +1,6 @@
+dataset: adult, sensitive: race, validation_size: 0.05, test_size: 0.05
+method: roc, budget: 50, fair_constraint: max
+acc_valid: 0.84 (0.01), fair_valid: 1.0 (0.0), individual_valid: 0.09 (0.01)
+acc_test: 0.84 (0.01), fair_test: 0.97 (0.02), individual_test: 0.09 (0.01)
+start date time: 2021-08-17 14:11:37.092542 and end date time: 2021-08-17 14:11:48.606848
+runtime: 11.51(s)

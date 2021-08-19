@@ -1,0 +1,6 @@
+dataset: german, sensitive: sex, validation_size: 0.05, test_size: 0.05
+method: roc, budget: 50, fair_constraint: max
+acc_valid: 0.76 (0.07), fair_valid: 0.99 (0.01), individual_valid: 0.11 (0.05)
+acc_test: 0.75 (0.05), fair_test: 0.85 (0.08), individual_test: 0.12 (0.02)
+start date time: 2021-08-17 14:10:35.789770 and end date time: 2021-08-17 14:10:39.939976
+runtime: 4.15(s)

@@ -1,0 +1,6 @@
+dataset: german, sensitive: sex, validation_size: 0.05, test_size: 0.05
+method: fcgp_l, balance: 0.5, optimize: grid, budget: 50
+acc_valid: 0.76 (0.07), fair_valid: 0.98 (0.02), individual_valid: 0.09 (0.03)
+acc_test: 0.76 (0.06), fair_test: 0.9 (0.07), individual_test: 0.08 (0.02)
+start date time: 2021-08-18 11:50:26.045446 and end date time: 2021-08-18 11:50:27.793297
+runtime: 1.75(s)
