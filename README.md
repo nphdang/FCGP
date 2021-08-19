@@ -10,6 +10,9 @@ Our method is an unsupervised post-processing approach.
 ## Unsupervised post-processing approach for fair classification
 ![unsupervised-post-processing](https://github.com/nphdang/FCGP/blob/main/unsupervised_postprocessing.jpg)
 
+## Performance comparision
+![performance-comparision](https://github.com/nphdang/FCGP/blob/main/performance_comparison.jpg)
+
 # Installation
 
 # How to run
