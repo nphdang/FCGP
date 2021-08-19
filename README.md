@@ -9,3 +9,10 @@ Our method is an unsupervised post-processing approach.
 
 ## Unsupervised post-processing approach for fair classification
 ![unsupervised-post-processing](https://github.com/nphdang/FCGP/blob/main/unsupervised_postprocessing.jpg)
+
+# Installation
+
+# How to run
+
+# Reference
+Dang Nguyen, Sunil Gupta, Santu Rana, Alistair Shilton, Svetha Venkatesh (2021). Fairness Improvement for Black-box Classifiers with Gaussian Process. Information Sciences, 576, 542-556
